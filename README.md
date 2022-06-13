@@ -59,5 +59,5 @@ If you think that you can add a new feature or want to fix a bug. You can start 
   ### Click on <code>Create pull request</code>*9
 
 
-## Congratulations🎉, you have made a PR to the repository. Wait for your submission to be accepted and your PR to be merged by a maintainer.
-## Show some ❤️ by starring this repository and do follow me for more updates✨
+ Congratulations🎉, you have made a PR to the repository. Wait for your submission to be accepted and your PR to be merged by a maintainer.
+Show some ❤️ by starring this repository and do follow me for more updates✨
